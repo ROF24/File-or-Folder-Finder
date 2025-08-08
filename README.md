@@ -5,4 +5,4 @@ file or folder finder is a python program that lets you find a certain folder or
 # Examples
 
 ## This is an example of the program finding a folder
-![Example 1]
+![Example 1](example.png)
