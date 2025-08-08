@@ -6,3 +6,6 @@ file or folder finder is a python program that lets you find a certain folder or
 
 ## This is an example of the program finding a folder
 ![Example 1](example.png)
+
+## This is an example of the program finding a file
+![Example 1](example2.png)
