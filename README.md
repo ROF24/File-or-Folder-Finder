@@ -12,4 +12,4 @@ file or folder finder is a python program that lets you find a certain folder or
 
 # Tutorial(click on the image to go to the youtube video)
 
-[![Watch the video](icon.ico)]([https://www.youtube.com/watch?v=wCRoo0EUxQQ](https://youtu.be/hJHulHJ6awM))
+[![Watch the video](icon.ico)](https://www.youtube.com/watch?v=hJHulHJ6awM)
