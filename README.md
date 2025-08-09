@@ -10,6 +10,6 @@ file or folder finder is a python program that lets you find a certain folder or
 ## This is an example of the program finding a file
 ![Example 1](example2.png)
 
-# Tutorial
+# Tutorial(click on the image to go to the youtube video)
 
-## https://youtu.be/wCRoo0EUxQQ
+[![Watch the video](icon.ico)](https://www.youtube.com/watch?v=wCRoo0EUxQQ)
